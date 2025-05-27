@@ -6,7 +6,7 @@ public class Primero {
 		// TODO Auto-generated method stub
 		//System.out.println("Hola");
 		double x=7.4, y=8,z;
-		char inicial='B';
+		char inicial='J'; //Cambio de inicial
 		boolean becado=false;
 		z=x+y;
 		System.out.println("Mi inicial es:"+inicial);
